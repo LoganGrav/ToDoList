@@ -1,0 +1,7 @@
+0use chatgpt to better understand custom classes in java
+0add deadlines to todo list
+0create ui for todo list project
+0make LinkedList project
+0Make binary search tree project
+0make hash function project
+0make bigger project that uses various design patterns
